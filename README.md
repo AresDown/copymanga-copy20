@@ -68,8 +68,8 @@ Tachiyomi/Mihon等系列的中文漫畫書源，現已支持拷貝漫畫/vomic/�
 
 <a href="https://www.star-history.com/?repos=copymanga-copy20%2Fcopymanga-copy20&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&theme=dark&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&theme=dark&legend=top-left&sealed_token=WEdFbEITJox-W_HaOBIm5FXB0wwesn2uEgQFrpmk0mN70-cZl2prLizfq3kV4Cozynk_dY0FMg4HDjoyiUxhAnhgMunlxxXpt8tYlazt1cAgDWSZOZ5kLQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=WEdFbEITJox-W_HaOBIm5FXB0wwesn2uEgQFrpmk0mN70-cZl2prLizfq3kV4Cozynk_dY0FMg4HDjoyiUxhAnhgMunlxxXpt8tYlazt1cAgDWSZOZ5kLQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=WEdFbEITJox-W_HaOBIm5FXB0wwesn2uEgQFrpmk0mN70-cZl2prLizfq3kV4Cozynk_dY0FMg4HDjoyiUxhAnhgMunlxxXpt8tYlazt1cAgDWSZOZ5kLQ" />
  </picture>
 </a>
