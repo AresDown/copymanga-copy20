@@ -64,5 +64,12 @@ Tachiyomi/Mihon等系列的中文漫畫書源，現已支持拷貝漫畫/vomic/�
 + 普通章節檔案無法識別可能是簡繁轉換導致無法匹配
 + 關於只能看五頁，請嘗試更換User-Agent(包括插件設定以及Mihon本身自帶的UA設定)
 
-##
-[![Star History Chart](https://api.star-history.com/svg?repos=LittleSurvival/copymanga-copy20&type=Date)](https://star-history.com/#LittleSurvival/copymanga-copy20&Date)
+## Star History
+
+<a href="https://www.star-history.com/?repos=copymanga-copy20%2Fcopymanga-copy20&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&theme=dark&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=copymanga-copy20/copymanga-copy20&type=date&legend=top-left&sealed_token=FHx6mF1Sb5IPld_f-1FuW9Qci9GnIEyqmV9N_B0mxXa3KEbzilcVJ3cn41YCpKfzSw22_xRmzPBObELDm8pOcZmMcyhd-9XV2pndqwS9S1SH-6NgoY5dDA" />
+ </picture>
+</a>
