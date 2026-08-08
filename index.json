@@ -36,10 +36,10 @@
   {
     "name": "Tachiyomi: BaoziManhuaPlus",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhuaplus",
-    "apk": "tachiyomi-zh.baozimanhuaplus-v1.4.1.apk",
+    "apk": "tachiyomi-zh.baozimanhuaplus-v1.4.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
