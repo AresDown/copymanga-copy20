@@ -21,12 +21,15 @@ Tachiyomi/Mihon等系列的中文漫畫書源，現已支持拷貝漫畫/vomic/�
   <img height="36" style="border-radius:12px;height:36px;" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt="在爱发电支持我" />
   </a>
 
-## 拷貝漫畫 v1.4.82
+## 拷貝漫畫 v1.4.83
 
 > Info
 + 新版本與Tachidesk/Suwayomi最新版本兼容
 + 現已支持熱辣漫畫 (可在插鍵設定更改api域名切換)
 + 支持獲取拷貝/熱辣源站書櫃漫畫選項 (需登入，此功能意在使用戶能方便遷移在拷貝中收藏的漫畫)
+
+> Update
++ 新增copy4000.com域名
 
 ## vomic漫 v1.4.3
 > Info
