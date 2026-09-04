@@ -23,39 +23,56 @@ Tachiyomi/Mihon等系列的中文漫畫書源，現已支持拷貝漫畫/vomic/�
   <img height="36" style="border-radius:12px;height:36px;" src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.jpg" alt="在爱发电支持我" />
   </a>
 
-## 拷貝漫畫 v1.4.83
+<!-- module:copymanga:start -->
+## 拷貝漫畫 v1.4.84
 
 > Info
-+ 新版本與Tachidesk/Suwayomi最新版本兼容
-+ 現已支持熱辣漫畫 (可在插鍵設定更改api域名切換)
-+ 支持獲取拷貝/熱辣源站書櫃漫畫選項 (需登入，此功能意在使用戶能方便遷移在拷貝中收藏的漫畫)
++ 新版本與 Tachidesk/Suwayomi 最新版本兼容
++ 現已支持熱辣漫畫（可在插件設定更改 API 域名切換）
++ 支持獲取拷貝／熱辣源站書櫃漫畫選項（需登入，此功能方便使用者遷移在拷貝中收藏的漫畫）
 
 > Update
-+ 新增copy4000.com域名
++ 更新社群資訊
+<!-- module:copymanga:end -->
 
-## vomic漫 v1.4.3
+<!-- module:vomicmh:start -->
+## vomic漫 v1.4.4
+
 > Info
-+ 使用前請先至插鍵設置登入帳號
-+ 支援熱門漫畫/最新更新漫畫
-+ 支援主題/排序/連載狀態/創作類型/多項排行榜篩選
++ 使用前請先至插件設定登入帳號
++ 支援熱門漫畫／最新更新漫畫
++ 支援主題／排序／連載狀態／創作類型／多項排行榜篩選
 + 支援顯示章節評論
-+ 支援簡繁轉換(搜索支持自動轉成簡體)
++ 支援簡繁轉換（搜尋支持自動轉成簡體）
 
-## 漫蛙2 v1.4.6
+> Update
++ 更新社群資訊
+<!-- module:vomicmh:end -->
+
+<!-- module:manwayuplus:start -->
+## 漫蛙2 v1.4.7
+
 > Info
 + 支援圖源多線路切換
 + 支援源站所有篩選方法
 + 免登入支援源站所有作品
 
 > Update
-+ 修復圖片最多僅能查看100頁的問題
++ 更新社群資訊
+<!-- module:manwayuplus:end -->
 
-## 包子漫畫 v1.4.2
+<!-- module:baozimanhuaplus:start -->
+## 包子漫畫 v1.4.3
+
 > Info
-+ 支援熱門漫畫/最新更新漫畫
-+ 支援主題/地區/連載狀態
++ 支援熱門漫畫／最新更新漫畫
++ 支援主題／地區／連載狀態
 + 支持去橫幅功能
 + 修復無法正常瀏覽最後一章的問題
+
+> Update
++ 更新社群資訊
+<!-- module:baozimanhuaplus:end -->
 
 > Q&A
 + [New] : 為何把熱辣源併進拷貝，不做獨立新源? 由於兩者後端和漫畫存儲模式近乎一模一樣，且搬遷會導致某些無端麻煩，不如直接用api域名併入
