@@ -11,8 +11,9 @@ Tachiyomi/Mihon等系列的中文漫畫書源，現已支持拷貝漫畫/vomic/�
 
 ## 相關
 - [Telegram群](https://t.me/+ZOWwLAnYYvhlYzA9)
-- [Discord群](https://discord.gg/kE2VAZk2pd)
 - QQ群 [516631221](https://qm.qq.com/q/uPGMxTrBIe)
+- QQ二群 [https://qm.qq.com/q/6zTOwpftuM]
+- [Discord群](https://discord.gg/kE2VAZk2pd)
 - [說明頁](https://littlesurvival.github.io/copymanga-copy20/)
 - 支持我
   <a href="https://ko-fi.com/thenano">
